@@ -1,0 +1,7 @@
+C:\Users\kadem\OneDrive\Documents\MSSA\ISTA220\TipCalculator\bin\Debug\TipCalculator.exe.config
+C:\Users\kadem\OneDrive\Documents\MSSA\ISTA220\TipCalculator\bin\Debug\TipCalculator.exe
+C:\Users\kadem\OneDrive\Documents\MSSA\ISTA220\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\Users\kadem\OneDrive\Documents\MSSA\ISTA220\TipCalculator\obj\Debug\TipCalculator.csprojAssemblyReference.cache
+C:\Users\kadem\OneDrive\Documents\MSSA\ISTA220\TipCalculator\obj\Debug\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kadem\OneDrive\Documents\MSSA\ISTA220\TipCalculator\obj\Debug\TipCalculator.exe
+C:\Users\kadem\OneDrive\Documents\MSSA\ISTA220\TipCalculator\obj\Debug\TipCalculator.pdb
